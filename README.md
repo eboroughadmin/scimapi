@@ -1,2 +1,1 @@
-# scimapi
-SCMI AIP
+
